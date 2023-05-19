@@ -85,13 +85,14 @@ margin: 0px;
   background: rgba(217, 218, 255, 0.8);
 }
 
-     .extra{
-  padding: 3%;
+       .extra{
+  padding: 1.5%;
+ background: transparent;
   border: 2px solid black;
+  box-shadow: 0 0 1.5em gray; 
   text-align: center;
   font-size: 1.2em;
 }
-
 .bgdiv h1{
   padding-left: 400px;
   padding-top: 20px;
