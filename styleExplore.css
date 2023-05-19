@@ -85,6 +85,13 @@ margin: 0px;
   background: rgba(217, 218, 255, 0.8);
 }
 
+     .extra{
+  padding: 3%;
+  border: 2px solid black;
+  text-align: center;
+  font-size: 1.2em;
+}
+
 .bgdiv h1{
   padding-left: 400px;
   padding-top: 20px;
@@ -2803,6 +2810,13 @@ padding: 100px 0px;
  header{
   padding: 0px 10px;
     }
+  
+       .extra{
+  padding: 3%;
+  border: 2px solid black;
+  text-align: center;
+  font-size: 1em;
+}
 
         .bgdiv{
   width: 100%;
